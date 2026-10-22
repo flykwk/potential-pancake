@@ -1,6 +1,6 @@
 ---
 name: frontend-ui-design
-description: Design and implement polished, responsive front-end interfaces. Use when creating or improving web pages, app screens, components, or visual prototypes. ()
+description: Design and implement polished, responsive front-end interfaces. Use when creating or improving web pages, app screens, components, or visual prototypes. Test your work for accessibility, usability, and responsiveness.
 ---
 
 # Front-end UI design
